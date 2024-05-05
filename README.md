@@ -1,4 +1,4 @@
-# Thesis-Uncertainty-CT-Modeling
+# CTScanModelingThesis: Bayesian and Deterministic Approaches
 
 ## Project Description:
 
@@ -18,7 +18,7 @@ This repository houses the code and resources for my thesis project focused on u
 ## Directory Structure:
 
 ```
-Thesis-Uncertainty-CT-Modeling/
+ct-scan-modeling-thesis-bayesian-deterministic/
 │
 ├── data/              # Directory for storing CT scan data
 ├── models/            # Directory for storing trained models
