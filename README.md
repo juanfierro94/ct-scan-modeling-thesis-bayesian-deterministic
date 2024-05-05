@@ -2,7 +2,13 @@
 
 ## Project Description:
 
+- English:
+
 This repository houses the code and resources for my thesis project focused on uncertainty estimation in computed tomography (CT) scan modeling using Bayesian and deterministic neural networks. The primary objective of this research endeavor is to explore and compare the effectiveness of Bayesian methodologies in quantifying uncertainty in CT scan analysis.
+
+- Spanish:
+
+En este repositorio se aloja el código y los recursos para mi proyecto de tesis centrado en la estimación de la incertidumbre en el modelado de tomografías computarizadas (TC) utilizando redes neuronales bayesianas y deterministas. El objetivo principal de esta investigación es explorar y comparar la efectividad de las metodologías bayesianas en la cuantificación de la incertidumbre en el análisis de tomografías computarizadas.
 
 ### Key Features:
 
@@ -13,6 +19,14 @@ This repository houses the code and resources for my thesis project focused on u
 - **Documentation and Code Samples:** Comprehensive documentation and code samples to facilitate understanding and reproducibility of experimental results.
 
 ## Getting Started:
+1. Clone the repository:
+git clone https://github.com/your_username/ct-scan-modeling-thesis-bayesian-deterministic.git
+
+2. Navigate to the project directory:
+cd ct-scan-modeling-thesis-bayesian-deterministic
+
+3. Install the required dependencies:
+pip install -r requirements.txt
 
 
 ## Directory Structure:

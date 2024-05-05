@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+tensorflow-probability==0.23.0
+volumentations-3D==1.0.4
+keras-tuner==1.4.5
+classification-models-3D==1.0.7
+pandas==1.4.3
+numpy==1.24.4
+matplotlib==3.5.2
+seaborn==0.11.2
+scikit-learn==1.1.1
