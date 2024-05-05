@@ -24,7 +24,7 @@ Thesis-Uncertainty-CT-Modeling/
 ├── models/            # Directory for storing trained models
 ├── notebooks/         # Jupyter notebooks for experimentation and analysis
 ├── scripts/           # Python scripts for model training, evaluation, and visualization
-├── utils/             # Utility functions and helper scripts
+├── utils/             # Utility functions and helper scripts and results
 ├── LICENSE            # License file
 ├── README.md          # Project README file
 └── requirements.txt   # List of dependencies
